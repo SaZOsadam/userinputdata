@@ -1,0 +1,22 @@
+.container{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 25em;
+    height: 5em;
+    padding: 2em;
+    margin: auto;
+
+}
+
+.SubmitBtn{
+    padding: 10px 25px;
+    background-color: hsl(240, 91%, 77%);
+    color:#fff;
+    text-align: center;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
